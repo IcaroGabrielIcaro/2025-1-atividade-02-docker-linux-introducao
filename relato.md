@@ -27,7 +27,7 @@ Nesta segunda parte, checo em qual diretório estou e vou para o `~`. Lá, crio 
 
 ### Gerenciamento de Pacotes
 
-![Gerenciamento de Pacotes](imagens/gerenciamento-de-pacotes.png)  
+![Gerenciamento de Pacotes](imagens/gerneciamento-de-pacotes.png)  
 Nesta etapa, é necessário usar o comando `dnf update` para atualizar a lista de pacotes. Com ele atualizado, podemos instalar o `nano`, que é um editor de texto, verificar a sua versão e, por fim, removê-lo. Esta etapa é essencial por mostrar que o Linux não oferece todas as funções de cara, sendo necessário instalar e, depois, remover pacotes, mostrando que não fica instalado para sempre.
 
 ### Permissões de Arquivos
